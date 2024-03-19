@@ -1,6 +1,7 @@
 # 03 JavaScript: Password Generator
 
-LINK TO MY PASSWORD GENERATOR
+
+## LINK TO MY PASSWORD GENERATOR
 
 
  https://daisyisibor.github.io/Password-Generator/
